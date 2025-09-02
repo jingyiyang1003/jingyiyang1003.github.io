@@ -1,0 +1,15 @@
+---
+title: "A Novel Mitochondrial-Related Gene Signature for the Prediction of Prognosis and Therapeutic Efficacy in Lower-Grade Glioma"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-10-02-paper-title-number-4
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2024-10-02
+venue: ' Biochemical Genetics'
+paperurl: 'http://jingyiyang1003.github.io/files/paper241002.pdf'
+citation: 'Yang, J., Shen, L., Zhou, J. et al. A Novel Mitochondrial-Related Gene Signature for the Prediction of Prognosis and Therapeutic Efficacy in Lower-Grade Glioma. Biochem Genet (2024). https://doi.org/10.1007/s10528-024-10928-w'
+---
+
+Abstract: 
+
+Lower-grade glioma (LGG) is a common primary brain tumor with a highly heterogeneous clinical presentation, and its prognosis cannot be accurately predicted by current histopathology. It has been found that mitochondria play an important role in hypoxia, angiogenesis, and energy metabolism in glioma, and mitochondrial function may have an important impact on LGG prognosis. The goal of this study was to develop a novel prognostic model based on Mitochondrial-related genes (MRGs). We first analyzed the somatic alterations profiles of MRGs in patients with LGG and found that somatic alterations were common in LGG and correlated with prognosis. Using RNA-seq data from TCGA and CGGA, 12 prognosis-related MRGs were identified to construct a mitochondrial activation score (MiAS) model by combining univariate regression and LASSO regression analysis. The model and nomogram were evaluated using the area under the ROC curve with AUC = 0.910. The model was closely correlated with the clinical characteristics of LGG patients and performed well in predicting the prognosis of LGG patients with significantly shorter overall survival (OS) time in the high-MiAS group. GSVA and GSEA results showed that oxidative stress, pro-cancer, and immune-related pathways were significantly enriched in the high-MiAS group. CIBERSORT results showed that MiAS was significantly associated with immune cell infiltration in LGG. Macrophage M1 and follicular helper T cells had increased infiltration in the high-MiAS group. TIDE predicted a better immunotherapy outcome in patients in the low-MiAS group. Finally, using data from the CTRPv2 and GDSC2 datasets to assess chemotherapy response in LGG, it was predicted that the chemotherapeutic agents AZD6482, MG-132, and PLX-4720 might be potential agents for patients in the high-MiAS group of LGG. In addition, we performed in vitro experiments and found that knockdown of OCIAD2 expression reduced the abilities of glioma cells to proliferate, migrate, and invade. In contrast, overexpression of OCIAD2 enhanced these abilities of glioma cells. This study found that MRGs were correlated with LGG patient prognosis, which is expected to provide new treatment strategies for LGG patients with different MiAS.
