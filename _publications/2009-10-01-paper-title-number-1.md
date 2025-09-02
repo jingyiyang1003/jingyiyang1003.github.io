@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The cerebellopontine angle cistern volumetric differences in trigeminal neuralgia patients with and without vertebrobasilar compression: a case-matched study"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
