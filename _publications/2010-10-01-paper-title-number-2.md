@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "A nomogram based on clinical multivariate factors predicts delayed cure after microvascular decompression for hemifacial spasm"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
