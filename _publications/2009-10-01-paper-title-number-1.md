@@ -2,7 +2,7 @@
 title: "The cerebellopontine angle cistern volumetric differences in trigeminal neuralgia patients with and without vertebrobasilar compression: a case-matched study"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-09-13-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
