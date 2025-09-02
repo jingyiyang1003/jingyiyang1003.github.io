@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-09-13-paper-title-number-1
 excerpt: 'This paper is about a case-matched MRI study demonstrating that trigeminal neuralgia patients with vertebrobasilar compression exhibit an enlarged cerebellopontine angle cistern on the affected side, frequently associated with vertebrobasilar dolichoectasia and junction laterality. These anatomical alterations may contribute to nerve compression through a distinct pathophysiological mechanism.'
 date: 2023-09-13
-venue: 'Journal 1'
+venue: ' Neurosurgical Review '
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
