@@ -1,11 +1,10 @@
 ---
-title: "The cerebellopontine angle cistern volumetric differences
- in trigeminal neuralgia patients with and without vertebrobasilar compression: a case-matched study"
+title: "Letter: The Sagittal Angle of the Trigeminal Nerve at the Porus Trigeminus is a Radiologic Predictor of Surgical Outcome in Microvascular Decompression for Classical Trigeminal Neuralgia"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-09-13-paper-title-number-1
+permalink: /publication/2025-05-15-paper-title-number-7
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2025-05-15
 venue: 'Neurosurgery'
 paperurl: 'http://jingyiyang1003.github.io/files/paper250515.pdf'
 citation: 'Yang, Jingyi MD; Xiong, Nanxiang PhD. Letter: The Sagittal Angle of the Trigeminal Nerve at the Porus Trigeminus is a Radiologic Predictor of Surgical Outcome in Microvascular Decompression for Classical Trigeminal Neuralgia. Neurosurgery 97(1):p e42, July 2025. | DOI: 10.1227/neu.0000000000003522'
