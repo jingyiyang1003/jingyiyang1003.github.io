@@ -3,7 +3,7 @@ title: "Letter: The Sagittal Angle of the Trigeminal Nerve at the Porus Trigemin
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-15-paper-title-number-7
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This letter discusses Branstetter et al.’s study on the sagittal angle of the trigeminal nerve at the porus trigeminus (SATNaPT) as a predictor of surgical outcome in microvascular decompression for classical trigeminal neuralgia. The letter highlights the potential role of SATNaPT in TN pathogenesis, suggests postoperative MRI follow-up to assess changes in SATNaPT, and raises questions about intraoperative findings in patients without preoperative vascular compression.'
 date: 2025-05-15
 venue: 'Neurosurgery'
 paperurl: 'http://jingyiyang1003.github.io/files/paper250515.pdf'
