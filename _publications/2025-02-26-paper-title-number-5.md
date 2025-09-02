@@ -3,7 +3,7 @@ title: "Medial temporal lobotomy in the treatment of medial temporal lobe epilep
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-26-paper-title-number-5
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper presents a case series evaluating the safety and efficacy of medial temporal lobotomy (MTL) in treating medial temporal lobe epilepsy (MTLE). The MTL technique involves suction-based removal of the amygdala, preserving the hippocampus, and severing fibrous connections between medial temporal structures and the surrounding cortex.'
 date: 2025-02-26
 venue: ' Neurosurgical Review'
 paperurl: 'http://jingyiyang1003.github.io/files/paper3.pdf'
