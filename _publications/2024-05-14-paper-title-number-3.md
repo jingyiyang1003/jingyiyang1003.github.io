@@ -6,7 +6,7 @@ permalink: /publication/2024-05-14-paper-title-number-3
 excerpt: 'This paper is about a technical innovation in microvascular decompression (MVD) for hemifacial spasm involving the vertebral artery (VA). We described the “bridge-layered” decompression technique, which employs a multipoint “bridge” to elevate the VA and a layered approach to manage its branch vessels, aiming to minimize cerebellar traction and reduce the risk to the facial‑acoustic nerve complex.'
 date: 2024-05-14
 venue: 'BMC Surgery'
-paperurl: 'http://academicpages.github.io/files/paper240514.pdf'
+paperurl: 'http://jingyiyang1003.github.io/files/paper240514.pdf'
 citation: 'Shen, L., Yang, J., Cheng, R. et al. Bridge-layered decompression technique for vertebral artery-involved hemifacial spasm: technical note. BMC Surg 24, 154 (2024). https://doi.org/10.1186/s12893-024-02415-1'
 ---
 
