@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*  Wuhan University, Wuhan, Hubei, China
+ Sep 2023– June 2025
+ Expected
+ Master of Medicine , GPA: 3.8/4.0
+ Relevant Courses: Research Methods and Frontier Technology of Bio-Medical Science (A+), Experimental
+ Technology of Medical Molecular Biology- Protein Study (A+)
+*  Wuhan University, Wuhan, Hubei, China
+ Sep 2018– June 2023
+ Bachelor of Medicine , GPA: 3.66/4.0
+ Relevant Courses: Comprehensive Basic Medical Experiment (99/100); Epidemiology (93/100);
+ Evidence-based medicine (93/100); Surgical Experiment (92/100)
 
 Work experience
 ======
