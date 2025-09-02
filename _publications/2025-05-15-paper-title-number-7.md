@@ -1,0 +1,25 @@
+---
+title: "The cerebellopontine angle cistern volumetric differences
+ in trigeminal neuralgia patients with and without vertebrobasilar compression: a case-matched study"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-09-13-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Neurosurgery'
+paperurl: 'http://jingyiyang1003.github.io/files/paper250515.pdf'
+citation: 'Yang, Jingyi MD; Xiong, Nanxiang PhD. Letter: The Sagittal Angle of the Trigeminal Nerve at the Porus Trigeminus is a Radiologic Predictor of Surgical Outcome in Microvascular Decompression for Classical Trigeminal Neuralgia. Neurosurgery 97(1):p e42, July 2025. | DOI: 10.1227/neu.0000000000003522'
+---
+To the Editor:
+
+We have carefully read the article by Branstetter et al titled “The Sagittal Angle of the Trigeminal Nerve at the Porus Trigeminus is a Radiologic Predictor of Surgical Outcome in Microvascular Decompression for Classical Trigeminal Neuralgia”.1 This study conducted an in-depth analysis of preoperative MRI scans from 300 patients with classical trigeminal neuralgia (TN), measuring the sagittal angle of the trigeminal nerve at the porus trigeminus (SATNaPT) and elucidating its correlation with postoperative outcomes of microvascular decompression.
+
+We deeply appreciate the contributions of this study, particularly the authors' identification of hyperacute SATNaPT as a Radiologic Predictor for poor postoperative prognosis. The findings indicate that patients with hyperacute SATNaPT have a significantly lower surgical success rate compared with those without it (58% vs 82%), with the success rate dropping to 29% in the absence of clear vascular compression evidence. This discovery provides valuable clinical insights, suggesting that certain anatomical characteristics may influence the treatment outcomes of TN and highlighting the need for further optimization of surgical strategies. However, we believe that the following three aspects warrant further discussion.
+
+First, readers are interested in the relationship between SATNaPT and the pathogenesis of TN. The pathogenesis of TN is complex and beyond vascular compression, tumors, inflammation, and other factors can affect it. Previous studies have found that TN patients exhibit a series of characteristic imaging features on MRI, such as a significantly smaller pontomesencephalic cistern,2 smaller transverse area of the cerebellopontine angle cistern,3 reduced volume of trigeminal nerve,4 shorter length of cisternal trigeminal nerves,5 and a sharper trigeminal-pontine angle6 on the affected side. These findings suggest that anatomical variations may be part of the pathogenesis of TN. Readers may infer that SATNaPT places the trigeminal nerve in a compressed state, and thus, hyperacute SATNaPT could be considered one of the contributing factors in the complex pathogenesis of TN.
+
+Second, readers are concerned with whether these patients underwent follow-up MRI after microvascular decompression. Specifically, for patients with complete pain relief, it remains unclear whether the SATNaPT exhibited significant postoperative changes. If postoperative MRI reveals a significant alteration in the SATNaPT in patients with successful surgical outcomes, this alignment between clinical efficacy and imaging findings would serve as critical evidence linking SATNaPT with both TN pathogenesis and surgical prognosis.
+
+Third, readers are very interested in whether vascular compression of the nerve was found during surgery in patients who had no evidence of vascular compression on preoperative MRI, a detail not mentioned in the article. Given the very low postoperative efficacy in patients with hyperacute SATNaPT and no evidence of vascular compression, it would be valuable to explore the underlying reasons for this. The abnormally acute SATNaPT may reduce the perineural space, amplifying the impact of even minor vascular compression or other microenvironmental factors, thereby affecting the surgical outcome. In addition, the failure to effectively correct the SATNaPT during surgery may contribute to the poor outcomes in these patients. We recommend postoperative MRI follow-ups to further investigate the reasons behind poor outcomes in this group.
+
+We sincerely appreciate the valuable work conducted by the authors and look forward to engaging in further discussion on the aforementioned points.
