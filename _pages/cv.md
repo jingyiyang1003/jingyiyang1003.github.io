@@ -51,18 +51,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-======
- # <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer Teaching at Wangyang Primary School, Dawu County, Xiaogan City, Hubei Province during the 2021 Summer Vacation
