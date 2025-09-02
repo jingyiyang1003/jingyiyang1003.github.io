@@ -3,7 +3,7 @@ title: "A Novel Mitochondrial-Related Gene Signature for the Prediction of Progn
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-02-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper develops and validates a 12-gene mitochondrial-related signature (MiAS) to predict prognosis and therapeutic response in lower-grade glioma. High-MiAS patients showed worse survival, increased oxidative stress and immune infiltration, while OCIAD2 was experimentally confirmed to regulate glioma cell proliferation and migration.'
 date: 2024-10-02
 venue: ' Biochemical Genetics'
 paperurl: 'http://jingyiyang1003.github.io/files/paper241002.pdf'
