@@ -6,7 +6,7 @@ permalink: /publication/2025-02-26-paper-title-number-5
 excerpt: 'This paper presents a case series evaluating the safety and efficacy of medial temporal lobotomy (MTL) in treating medial temporal lobe epilepsy (MTLE). The MTL technique involves suction-based removal of the amygdala, preserving the hippocampus, and severing fibrous connections between medial temporal structures and the surrounding cortex.'
 date: 2025-02-26
 venue: ' Neurosurgical Review'
-paperurl: 'http://jingyiyang1003.github.io/files/paper3.pdf'
+paperurl: 'http://jingyiyang1003.github.io/files/paper250226.pdf'
 citation: 'Yang, J., Zhou, Y., Cai, Y. et al. Medial temporal lobotomy in the treatment of medial temporal lobe epilepsy: a case series of 12 patients. Neurosurg Rev 48, 267 (2025). https://doi.org/10.1007/s10143-025-03414-3'
 ---
 
