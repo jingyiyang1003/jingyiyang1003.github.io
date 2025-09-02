@@ -6,7 +6,7 @@ permalink: /publication/2024-01-13-paper-title-number-2
 excerpt: 'This paper is about developing and validating a nomogram to predict the likelihood of delayed cure following microvascular decompression (MVD) in hemifacial spasm (HFS) patients. We applied multivariate logistic regression on clinical, radiological, and intraoperative factors, including vertebral artery and venous compression, absence of lateral spread response (LSR), facial nerve indentation degree, and neurovascular compression, to build the model. The nomogram demonstrated excellent predictive performance and strong clinical utility.'
 date: 2024-01-13
 venue: ' Neurosurgical Review '
-paperurl: 'http://academicpages.github.io/files/paper240113.pdf'
+paperurl: 'http://jingyiyang1003.github.io/files/paper240113.pdf'
 citation: 'Chen, K., Shen, L., Yang, J. et al. A nomogram based on clinical multivariate factors predicts delayed cure after microvascular decompression for hemifacial spasm. Neurosurg Rev 47, 44 (2024). https://doi.org/10.1007/s10143-024-02284-5'
 ---
 
