@@ -3,7 +3,7 @@ title: "A nomogram based on clinical multivariate factors predicts delayed cure 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-13-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about developing and validating a nomogram to predict the likelihood of delayed cure following microvascular decompression (MVD) in hemifacial spasm (HFS) patients. We applied multivariate logistic regression on clinical, radiological, and intraoperative factors, including vertebral artery and venous compression, absence of lateral spread response (LSR), facial nerve indentation degree, and neurovascular compression, to build the model. The nomogram demonstrated excellent predictive performance and strong clinical utility.'
 date: 2024-01-13
 venue: ' Neurosurgical Review '
 paperurl: 'http://academicpages.github.io/files/paper240113.pdf'
