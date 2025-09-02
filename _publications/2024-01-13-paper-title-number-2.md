@@ -10,7 +10,7 @@ paperurl: 'http://academicpages.github.io/files/paper240113.pdf'
 citation: 'Chen, K., Shen, L., Yang, J. et al. A nomogram based on clinical multivariate factors predicts delayed cure after microvascular decompression for hemifacial spasm. Neurosurg Rev 47, 44 (2024). https://doi.org/10.1007/s10143-024-02284-5'
 ---
 
-Abstract:
+Abstract
 
 Background:
 The course of disease after microvascular decompression (MVD) in patients with hemifacial spasm (HFS) is variable. The purpose of this study was to develop and validate a nomogram to predict the probability of delayed cure after microvascular decompression in patients with hemifacial spasms based on clinical multivariate factors.
