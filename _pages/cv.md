@@ -13,7 +13,7 @@ Education
 ======
 *  Wuhan University, Wuhan, Hubei, China
 
-   Sep 2023– June 2025 Expected
+   Sep 2023– June 2026 Expected
 
    Master of Medicine , GPA: 3.8/4.0
  
