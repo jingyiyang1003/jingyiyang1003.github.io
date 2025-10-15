@@ -355,3 +355,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+google_analytics: G-3H3JS6B5GW
